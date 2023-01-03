@@ -1,0 +1,6 @@
+
+/src
+// .gitignore
+/build
+*.log
+/node_modules
